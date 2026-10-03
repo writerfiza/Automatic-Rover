@@ -93,11 +93,8 @@ This is a 2D simulation with synthetic camera images, not real Mars/Moon imagery
 - Reinforcement learning for the decision stage
 - Physical rover prototype integration
 
-## AI-use transparency
-
-This project was developed with guidance from an AI assistant (Claude, Anthropic) used as a learning and development tutor throughout. The assistant explained concepts, proposed code structure, and helped debug errors; all code was run, tested, and verified by the author, and all design decisions (what to build, what results mean, what to report honestly) were made by the author. A full session-by-session log is maintained in `AI_USE_LOG.md`.
 
 ## Author
 
-[Your name], 2nd-year Artificial Intelligence undergraduate.
+Fiza Batool, 2nd-year Artificial Intelligence undergraduate.
 Built for World Space Week 2026 ("Rocket Revolution") and the Stardust Challenge 2026.
