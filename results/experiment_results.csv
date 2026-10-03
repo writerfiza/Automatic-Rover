@@ -1,0 +1,91 @@
+method,seed,outcome,reached_goal,steps,collisions,replans,distance_m,dust_crossings
+Baseline (rule-based),3000,reached_goal,True,52,3,7,125.5391052434009,0
+Baseline (rule-based),3001,reached_goal,True,60,6,14,143.19595949289325,4
+Baseline (rule-based),3002,max_steps_reached,False,400,0,81,942.4894654563474,0
+Baseline (rule-based),3003,reached_goal,True,60,1,6,144.85281374238565,11
+Baseline (rule-based),3004,reached_goal,True,65,6,12,154.02438661763944,10
+Baseline (rule-based),3005,reached_goal,True,53,2,8,130.02438661763946,5
+Baseline (rule-based),3006,max_steps_reached,False,20,380,383,52.42640687119287,0
+Baseline (rule-based),3007,max_steps_reached,False,356,44,245,855.3178925810935,0
+Baseline (rule-based),3008,max_steps_reached,False,34,366,372,84.56854249492379,6
+Baseline (rule-based),3009,max_steps_reached,False,5,395,397,11.65685424949238,0
+Baseline (rule-based),3010,reached_goal,True,101,36,59,239.27922061357836,31
+Baseline (rule-based),3011,reached_goal,True,59,3,9,137.05382386916233,5
+Baseline (rule-based),3012,reached_goal,True,52,4,10,130.50966799187805,0
+Baseline (rule-based),3013,reached_goal,True,61,4,15,142.7106781186547,0
+Baseline (rule-based),3014,reached_goal,True,57,49,55,134.7106781186547,0
+Baseline (rule-based),3015,reached_goal,True,59,1,5,138.7106781186547,5
+Baseline (rule-based),3016,reached_goal,True,41,4,7,102.71067811865473,4
+Baseline (rule-based),3017,reached_goal,True,47,12,16,121.3380951166242,6
+Baseline (rule-based),3018,reached_goal,True,84,10,29,201.13708498984747,3
+Baseline (rule-based),3019,reached_goal,True,51,0,6,130.99494936611657,0
+Baseline (rule-based),3020,max_steps_reached,False,37,363,365,94.71067811865474,0
+Baseline (rule-based),3021,max_steps_reached,False,16,384,384,36.14213562373095,0
+Baseline (rule-based),3022,reached_goal,True,44,4,5,111.19595949289328,0
+Baseline (rule-based),3023,reached_goal,True,57,2,7,138.02438661763944,2
+Baseline (rule-based),3024,reached_goal,True,47,3,6,121.33809511662419,0
+Baseline (rule-based),3025,reached_goal,True,49,0,7,115.39696961966996,0
+Baseline (rule-based),3026,max_steps_reached,False,63,337,357,147.53910524340085,4
+Baseline (rule-based),3027,max_steps_reached,False,4,396,396,8.82842712474619,2
+Baseline (rule-based),3028,reached_goal,True,50,3,8,123.19595949289328,0
+Baseline (rule-based),3029,reached_goal,True,53,0,3,126.71067811865468,0
+AI (Random Forest),3000,reached_goal,True,64,0,16,149.53910524340088,0
+AI (Random Forest),3001,reached_goal,True,66,0,11,156.8528137423856,6
+AI (Random Forest),3002,reached_goal,True,63,0,12,146.7106781186547,0
+AI (Random Forest),3003,reached_goal,True,55,0,10,127.39696961966993,13
+AI (Random Forest),3004,reached_goal,True,71,3,18,169.33809511662415,8
+AI (Random Forest),3005,reached_goal,True,52,0,6,125.53910524340091,5
+AI (Random Forest),3006,reached_goal,True,66,0,17,151.88225099390849,14
+AI (Random Forest),3007,stuck,False,345,6,275,768.7005768508893,0
+AI (Random Forest),3008,reached_goal,True,62,0,19,147.19595949289325,6
+AI (Random Forest),3009,stuck,False,53,0,6,123.39696961966996,9
+AI (Random Forest),3010,reached_goal,True,61,0,6,139.39696961966993,9
+AI (Random Forest),3011,reached_goal,True,49,0,9,113.74011537017759,7
+AI (Random Forest),3012,reached_goal,True,66,1,18,150.2253967444161,15
+AI (Random Forest),3013,reached_goal,True,49,0,6,120.36753236814708,1
+AI (Random Forest),3014,reached_goal,True,51,1,8,119.39696961966996,0
+AI (Random Forest),3015,stuck,False,193,0,88,413.33809511662463,0
+AI (Random Forest),3016,reached_goal,True,49,0,8,118.71067811865471,3
+AI (Random Forest),3017,max_steps_reached,False,168,232,348,377.4213562373098,0
+AI (Random Forest),3018,max_steps_reached,False,400,0,179,949.1168824543171,2
+AI (Random Forest),3019,reached_goal,True,52,0,10,122.22539674441614,0
+AI (Random Forest),3020,max_steps_reached,False,297,103,288,743.1168824543169,98
+AI (Random Forest),3021,reached_goal,True,60,0,7,146.509667991878,8
+AI (Random Forest),3022,reached_goal,True,48,0,5,109.25483399593901,0
+AI (Random Forest),3023,reached_goal,True,59,0,8,138.7106781186547,0
+AI (Random Forest),3024,reached_goal,True,57,0,6,128.08326112068522,9
+AI (Random Forest),3025,reached_goal,True,56,0,9,135.19595949289325,0
+AI (Random Forest),3026,reached_goal,True,161,45,125,375.8477631085026,2
+AI (Random Forest),3027,reached_goal,True,89,10,48,218.59292911256313,11
+AI (Random Forest),3028,reached_goal,True,81,0,21,186.02438661763944,28
+AI (Random Forest),3029,reached_goal,True,55,0,13,127.3969696196699,0
+Oracle (perfect),3000,reached_goal,True,50,0,1,118.22539674441616,0
+Oracle (perfect),3001,reached_goal,True,56,0,1,130.22539674441614,0
+Oracle (perfect),3002,reached_goal,True,58,0,1,130.9116882454314,12
+Oracle (perfect),3003,reached_goal,True,54,0,1,124.56854249492375,9
+Oracle (perfect),3004,reached_goal,True,53,0,1,126.71067811865467,8
+Oracle (perfect),3005,reached_goal,True,57,0,1,134.71067811865467,5
+Oracle (perfect),3006,reached_goal,True,51,0,1,117.74011537017756,10
+Oracle (perfect),3007,reached_goal,True,57,0,1,136.36753236814704,0
+Oracle (perfect),3008,reached_goal,True,63,0,1,146.71067811865473,0
+Oracle (perfect),3009,reached_goal,True,63,0,1,143.39696961966993,0
+Oracle (perfect),3010,reached_goal,True,53,0,1,120.0832611206852,8
+Oracle (perfect),3011,reached_goal,True,43,0,1,105.05382386916231,2
+Oracle (perfect),3012,reached_goal,True,47,0,1,109.74011537017759,10
+Oracle (perfect),3013,reached_goal,True,52,0,1,117.254833995939,0
+Oracle (perfect),3014,reached_goal,True,45,0,1,105.74011537017758,0
+Oracle (perfect),3015,reached_goal,True,57,0,1,129.74011537017756,12
+Oracle (perfect),3016,reached_goal,True,41,0,1,101.05382386916234,5
+Oracle (perfect),3017,reached_goal,True,48,0,1,114.22539674441614,7
+Oracle (perfect),3018,reached_goal,True,53,0,1,118.42640687119282,6
+Oracle (perfect),3019,reached_goal,True,44,0,1,106.22539674441614,0
+Oracle (perfect),3020,stuck,False,46,0,1,115.19595949289327,0
+Oracle (perfect),3021,reached_goal,True,48,0,1,117.53910524340088,2
+Oracle (perfect),3022,reached_goal,True,48,0,1,110.91168824543138,1
+Oracle (perfect),3023,reached_goal,True,49,0,1,115.39696961966996,0
+Oracle (perfect),3024,reached_goal,True,50,0,1,114.91168824543138,21
+Oracle (perfect),3025,reached_goal,True,46,0,1,113.53910524340091,0
+Oracle (perfect),3026,reached_goal,True,53,0,1,131.68124086713183,8
+Oracle (perfect),3027,reached_goal,True,51,0,1,117.74011537017756,0
+Oracle (perfect),3028,reached_goal,True,43,0,1,105.05382386916234,0
+Oracle (perfect),3029,reached_goal,True,52,0,1,122.22539674441613,12

@@ -1,0 +1,121 @@
+scenario,method,seed,reached_goal,collisions
+Normal (haze 0.25),Baseline,4000,True,0
+Normal (haze 0.25),Baseline,4001,False,394
+Normal (haze 0.25),Baseline,4002,True,1
+Normal (haze 0.25),Baseline,4003,True,1
+Normal (haze 0.25),Baseline,4004,True,65
+Normal (haze 0.25),Baseline,4005,True,0
+Normal (haze 0.25),Baseline,4006,True,1
+Normal (haze 0.25),Baseline,4007,False,365
+Normal (haze 0.25),Baseline,4008,False,364
+Normal (haze 0.25),Baseline,4009,False,286
+Normal (haze 0.25),Baseline,4010,True,7
+Normal (haze 0.25),Baseline,4011,True,8
+Normal (haze 0.25),Baseline,4012,False,340
+Normal (haze 0.25),Baseline,4013,False,395
+Normal (haze 0.25),Baseline,4014,True,0
+Normal (haze 0.25),Baseline,4015,False,384
+Normal (haze 0.25),Baseline,4016,True,8
+Normal (haze 0.25),Baseline,4017,False,355
+Normal (haze 0.25),Baseline,4018,False,371
+Normal (haze 0.25),Baseline,4019,True,1
+Normal (haze 0.25),AI,4000,True,0
+Normal (haze 0.25),AI,4001,False,11
+Normal (haze 0.25),AI,4002,False,0
+Normal (haze 0.25),AI,4003,True,0
+Normal (haze 0.25),AI,4004,True,0
+Normal (haze 0.25),AI,4005,True,0
+Normal (haze 0.25),AI,4006,True,0
+Normal (haze 0.25),AI,4007,False,162
+Normal (haze 0.25),AI,4008,True,36
+Normal (haze 0.25),AI,4009,True,0
+Normal (haze 0.25),AI,4010,True,0
+Normal (haze 0.25),AI,4011,True,0
+Normal (haze 0.25),AI,4012,True,2
+Normal (haze 0.25),AI,4013,True,1
+Normal (haze 0.25),AI,4014,True,0
+Normal (haze 0.25),AI,4015,True,0
+Normal (haze 0.25),AI,4016,True,0
+Normal (haze 0.25),AI,4017,False,240
+Normal (haze 0.25),AI,4018,True,0
+Normal (haze 0.25),AI,4019,True,0
+Heavy dust (haze 0.7),Baseline,4000,True,0
+Heavy dust (haze 0.7),Baseline,4001,False,394
+Heavy dust (haze 0.7),Baseline,4002,True,8
+Heavy dust (haze 0.7),Baseline,4003,True,9
+Heavy dust (haze 0.7),Baseline,4004,False,378
+Heavy dust (haze 0.7),Baseline,4005,True,12
+Heavy dust (haze 0.7),Baseline,4006,True,106
+Heavy dust (haze 0.7),Baseline,4007,False,385
+Heavy dust (haze 0.7),Baseline,4008,True,144
+Heavy dust (haze 0.7),Baseline,4009,False,378
+Heavy dust (haze 0.7),Baseline,4010,True,17
+Heavy dust (haze 0.7),Baseline,4011,False,264
+Heavy dust (haze 0.7),Baseline,4012,False,347
+Heavy dust (haze 0.7),Baseline,4013,False,394
+Heavy dust (haze 0.7),Baseline,4014,True,35
+Heavy dust (haze 0.7),Baseline,4015,False,385
+Heavy dust (haze 0.7),Baseline,4016,True,129
+Heavy dust (haze 0.7),Baseline,4017,True,59
+Heavy dust (haze 0.7),Baseline,4018,False,373
+Heavy dust (haze 0.7),Baseline,4019,True,7
+Heavy dust (haze 0.7),AI,4000,True,0
+Heavy dust (haze 0.7),AI,4001,True,266
+Heavy dust (haze 0.7),AI,4002,True,0
+Heavy dust (haze 0.7),AI,4003,True,0
+Heavy dust (haze 0.7),AI,4004,True,1
+Heavy dust (haze 0.7),AI,4005,True,2
+Heavy dust (haze 0.7),AI,4006,True,2
+Heavy dust (haze 0.7),AI,4007,False,361
+Heavy dust (haze 0.7),AI,4008,True,46
+Heavy dust (haze 0.7),AI,4009,False,39
+Heavy dust (haze 0.7),AI,4010,True,2
+Heavy dust (haze 0.7),AI,4011,True,0
+Heavy dust (haze 0.7),AI,4012,True,174
+Heavy dust (haze 0.7),AI,4013,False,257
+Heavy dust (haze 0.7),AI,4014,False,349
+Heavy dust (haze 0.7),AI,4015,False,32
+Heavy dust (haze 0.7),AI,4016,True,0
+Heavy dust (haze 0.7),AI,4017,True,2
+Heavy dust (haze 0.7),AI,4018,True,12
+Heavy dust (haze 0.7),AI,4019,True,12
+Rockier terrain (15% rocks),Baseline,4000,True,10
+Rockier terrain (15% rocks),Baseline,4001,False,394
+Rockier terrain (15% rocks),Baseline,4002,True,0
+Rockier terrain (15% rocks),Baseline,4003,True,14
+Rockier terrain (15% rocks),Baseline,4004,True,57
+Rockier terrain (15% rocks),Baseline,4005,True,6
+Rockier terrain (15% rocks),Baseline,4006,True,13
+Rockier terrain (15% rocks),Baseline,4007,False,363
+Rockier terrain (15% rocks),Baseline,4008,False,330
+Rockier terrain (15% rocks),Baseline,4009,True,34
+Rockier terrain (15% rocks),Baseline,4010,True,16
+Rockier terrain (15% rocks),Baseline,4011,True,16
+Rockier terrain (15% rocks),Baseline,4012,False,324
+Rockier terrain (15% rocks),Baseline,4013,False,393
+Rockier terrain (15% rocks),Baseline,4014,True,24
+Rockier terrain (15% rocks),Baseline,4015,True,10
+Rockier terrain (15% rocks),Baseline,4016,True,15
+Rockier terrain (15% rocks),Baseline,4017,False,346
+Rockier terrain (15% rocks),Baseline,4018,False,358
+Rockier terrain (15% rocks),Baseline,4019,True,38
+Rockier terrain (15% rocks),AI,4000,True,0
+Rockier terrain (15% rocks),AI,4001,False,109
+Rockier terrain (15% rocks),AI,4002,True,0
+Rockier terrain (15% rocks),AI,4003,True,0
+Rockier terrain (15% rocks),AI,4004,True,0
+Rockier terrain (15% rocks),AI,4005,True,0
+Rockier terrain (15% rocks),AI,4006,True,0
+Rockier terrain (15% rocks),AI,4007,False,176
+Rockier terrain (15% rocks),AI,4008,True,0
+Rockier terrain (15% rocks),AI,4009,True,9
+Rockier terrain (15% rocks),AI,4010,True,0
+Rockier terrain (15% rocks),AI,4011,True,0
+Rockier terrain (15% rocks),AI,4012,False,103
+Rockier terrain (15% rocks),AI,4013,True,4
+Rockier terrain (15% rocks),AI,4014,False,4
+Rockier terrain (15% rocks),AI,4015,True,0
+Rockier terrain (15% rocks),AI,4016,True,0
+Rockier terrain (15% rocks),AI,4017,True,0
+Rockier terrain (15% rocks),AI,4018,False,101
+Rockier terrain (15% rocks),AI,4019,True,0
